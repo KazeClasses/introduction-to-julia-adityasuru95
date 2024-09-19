@@ -1,2 +1,2 @@
 using Documenter, InsertionSort
-makedocs(sitename="MyPackage.jl")
+makedocs(sitename="InsertionSort.jl")
